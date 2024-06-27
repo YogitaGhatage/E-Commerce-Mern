@@ -12,7 +12,7 @@ const App = () => {
     <main className="py-3">
       <Container>
     <h1>
-      WelCome To ProShop
+      WelCome To Ghatage Shop
     </h1>
     </Container>
         <Outlet />
