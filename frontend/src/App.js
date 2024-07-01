@@ -13,11 +13,9 @@ const App = () => {
     <Header />
     <main className="py-3">
       <Container>
-    <h1>
-      WelCome To Ghatage Shop
-    </h1>
+      <Outlet />
     </Container>
-        <Outlet />
+        
     </main>
     <Footer />
     <ToastContainer />
